@@ -1,1 +1,1 @@
-Este es un proyecto para la creacion de mi primer repositorio enlazadon con github!
+Este es un proyecto para la creacion de mi primer repositorio enlazado con github!
